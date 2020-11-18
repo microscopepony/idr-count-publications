@@ -1,0 +1,7 @@
+name: idr
+channels:
+  - defaults
+dependencies:
+  - requests
+  - tqdm
+  
